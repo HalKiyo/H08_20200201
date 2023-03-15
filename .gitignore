@@ -1,3 +1,17 @@
+# Options
+adm/
+bin/
+cpl/
+cpt/
+crp/
+dam/
+install.sh
+lib/
+lnd/
+map/
+met/
+riv/
+
 # Prerequisites
 *.d
 
